@@ -1,0 +1,24 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfpensotes2/practice2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfpensotes2/practice2/issues"
+  },
+  "homepage": "https://github.com/jfpensotes2/practice2#readme"
+}
